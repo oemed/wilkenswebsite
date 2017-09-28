@@ -1,4 +1,10 @@
-Nav {
+div.wrapper{
+    width: 1000px;
+    margin: auto;
+}
+
+
+nav {
     background-color: black;
     padding: 10px;
 }
@@ -22,10 +28,7 @@ body{
 
 }
 
-div.wrapper{
-    width: 1000px;
-    margin: auto;
-}
+
 table{
     border: 1px solid black;
     border-collapse: collapse;
@@ -47,8 +50,4 @@ td.blauw{
 footer{
     background-color: black;
     height: 100px;
-}
-div.wrapper2{
-    margin:auto;
-    width: 1000px;
 }
